@@ -144,6 +144,15 @@ Now, It should look like this
 
 ### 7. Now, save the file and restart the terminal and that's it.
 
+## 8. Color Customization
+
+Run the following code to choose the colors and change this in `./p10k.zsh`
+
+```bash
+./color_tester.sh
+```
+![App Screenshot](https://github.com/itamizhan/p10k-bluetooth-battery-prompt/blob/main/screenshots/screenshot_02.png)
+
 ## 8. Todo.
 
 ```[tasklist]
