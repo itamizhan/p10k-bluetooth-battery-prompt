@@ -144,7 +144,7 @@ Now, It should look like this
 
 ### 7. Now, save the file and restart the terminal and that's it.
 
-## 8. Todo
+## 8. Todo.
 
 **-** [ ] Convert Colors to Hex
 **-** [ ] Add Colors Table to Readme
