@@ -146,5 +146,10 @@ Now, It should look like this
 
 ## 8. Todo.
 
-**-** [ ] Convert Colors to Hex
-**-** [ ] Add Colors Table to Readme
+```[tasklist]
+### Todo
+- [ ] Change to Hex colors
+- [ ] Add Colors Table
+- [ ] Custom Colors function
+
+```
